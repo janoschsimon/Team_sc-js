@@ -1,0 +1,39 @@
+C:\Program Files\Point Grey Research\FlyCapture2\src\FlyCapture2SimpleGUI_CSharp_Circular\bin\x64\Release\FlyCapture2SimpleGUI_CSharp.exe.config
+C:\Program Files\Point Grey Research\FlyCapture2\src\FlyCapture2SimpleGUI_CSharp_Circular\bin\x64\Release\FlyCapture2SimpleGUI_CSharp.exe
+C:\Program Files\Point Grey Research\FlyCapture2\src\FlyCapture2SimpleGUI_CSharp_Circular\bin\x64\Release\FlyCapture2SimpleGUI_CSharp.pdb
+C:\Program Files\Point Grey Research\FlyCapture2\src\FlyCapture2SimpleGUI_CSharp_Circular\bin\x64\Release\FlyCap2CameraControl_v100.dll
+C:\Program Files\Point Grey Research\FlyCapture2\src\FlyCapture2SimpleGUI_CSharp_Circular\bin\x64\Release\FlyCapture2Managed_v100.dll
+C:\Program Files\Point Grey Research\FlyCapture2\src\FlyCapture2SimpleGUI_CSharp_Circular\obj\x64\Release\FlyCapture2SimpleGUI_CSharp.Form1.resources
+C:\Program Files\Point Grey Research\FlyCapture2\src\FlyCapture2SimpleGUI_CSharp_Circular\obj\x64\Release\FlyCapture2SimpleGUI_CSharp.Properties.Resources.resources
+C:\Program Files\Point Grey Research\FlyCapture2\src\FlyCapture2SimpleGUI_CSharp_Circular\obj\x64\Release\FlyCapture2SimpleGUI_CSharp_2010.csproj.GenerateResource.Cache
+C:\Program Files\Point Grey Research\FlyCapture2\src\FlyCapture2SimpleGUI_CSharp_Circular\obj\x64\Release\FlyCapture2SimpleGUI_CSharp.exe
+C:\Program Files\Point Grey Research\FlyCapture2\src\FlyCapture2SimpleGUI_CSharp_Circular\obj\x64\Release\FlyCapture2SimpleGUI_CSharp.pdb
+C:\My Stuff\My Programs\GS3Capture\bin\x64\Release\FlyCapture2SimpleGUI_CSharp.exe.config
+C:\My Stuff\My Programs\GS3Capture\obj\x64\Release\FlyCapture2SimpleGUI_CSharp.exe
+C:\My Stuff\My Programs\GS3Capture\obj\x64\Release\FlyCapture2SimpleGUI_CSharp.pdb
+C:\My Stuff\My Programs\GS3Capture\obj\x64\Release\FlyCapture2SimpleGUI_CSharp_2010.csprojResolveAssemblyReference.cache
+C:\My Stuff\My Programs\GS3Capture\obj\x64\Release\FlyCapture2SimpleGUI_CSharp.Form1.resources
+C:\My Stuff\My Programs\GS3Capture\obj\x64\Release\FlyCapture2SimpleGUI_CSharp.Properties.Resources.resources
+C:\My Stuff\My Programs\GS3Capture\obj\x64\Release\FlyCapture2SimpleGUI_CSharp_2010.csproj.GenerateResource.Cache
+C:\My Stuff\My Programs\GS3Capture\bin\x64\Release\FlyCapture2SimpleGUI_CSharp.exe
+C:\My Stuff\My Programs\GS3Capture\bin\x64\Release\FlyCapture2SimpleGUI_CSharp.pdb
+C:\Users\WindForce\Dropbox\Projekte\GS3_Capture\GS3_Capture_v0_2_0_source_31_03\bin\x64\Release\FlyCapture2SimpleGUI_CSharp.exe.config
+C:\Users\WindForce\Dropbox\Projekte\GS3_Capture\GS3_Capture_v0_2_0_source_31_03\bin\x64\Release\FlyCapture2SimpleGUI_CSharp.exe
+C:\Users\WindForce\Dropbox\Projekte\GS3_Capture\GS3_Capture_v0_2_0_source_31_03\bin\x64\Release\FlyCapture2SimpleGUI_CSharp.pdb
+C:\Users\WindForce\Dropbox\Projekte\GS3_Capture\GS3_Capture_v0_2_0_source_31_03\obj\x64\Release\FlyCapture2SimpleGUI_CSharp_2010.csprojResolveAssemblyReference.cache
+C:\Users\WindForce\Dropbox\Projekte\GS3_Capture\GS3_Capture_v0_2_0_source_31_03\obj\x64\Release\FlyCapture2SimpleGUI_CSharp.Form1.resources
+C:\Users\WindForce\Dropbox\Projekte\GS3_Capture\GS3_Capture_v0_2_0_source_31_03\obj\x64\Release\FlyCapture2SimpleGUI_CSharp.Properties.Resources.resources
+C:\Users\WindForce\Dropbox\Projekte\GS3_Capture\GS3_Capture_v0_2_0_source_31_03\obj\x64\Release\FlyCapture2SimpleGUI_CSharp_2010.csproj.GenerateResource.Cache
+C:\Users\WindForce\Dropbox\Projekte\GS3_Capture\GS3_Capture_v0_2_0_source_31_03\obj\x64\Release\FlyCapture2SimpleGUI_CSharp.exe
+C:\Users\WindForce\Dropbox\Projekte\GS3_Capture\GS3_Capture_v0_2_0_source_31_03\obj\x64\Release\FlyCapture2SimpleGUI_CSharp.pdb
+C:\Users\Renderfarm\Documents\Visual Studio 2017\GS3_Capture_v0_2_0_source_04-04-18\obj\x64\Release\FlyCapture2SimpleGUI_CSharp_2010.csprojResolveAssemblyReference.cache
+C:\Users\Renderfarm\Documents\Visual Studio 2017\GS3_Capture_v0_2_0_source_04-04-18\obj\x64\Release\FlyCapture2SimpleGUI_CSharp.Form1.resources
+C:\Users\Renderfarm\Documents\Visual Studio 2017\GS3_Capture_v0_2_0_source_04-04-18\obj\x64\Release\FlyCapture2SimpleGUI_CSharp.Properties.Resources.resources
+C:\Users\Renderfarm\Documents\Visual Studio 2017\GS3_Capture_v0_2_0_source_04-04-18\obj\x64\Release\FlyCapture2SimpleGUI_CSharp_2010.csproj.GenerateResource.cache
+C:\Users\Renderfarm\Documents\Visual Studio 2017\GS3_Capture_v0_2_0_source_04-04-18\obj\x64\Release\FlyCapture2SimpleGUI_CSharp_2010.csproj.CoreCompileInputs.cache
+C:\Users\Renderfarm\Documents\Visual Studio 2017\GS3_Capture_v0_2_0_source_04-04-18\obj\x64\Release\FlyCapture2SimpleGUI_CSharp.exe
+C:\Users\Renderfarm\Documents\Visual Studio 2017\GS3_Capture_v0_2_0_source_04-04-18\obj\x64\Release\FlyCapture2SimpleGUI_CSharp.pdb
+C:\Users\Renderfarm\Documents\Visual Studio 2017\GS3_Capture_v0_2_0_source_04-04-18\bin\x64\Release\FlyCapture2SimpleGUI_CSharp.exe.config
+C:\Users\Renderfarm\Documents\Visual Studio 2017\GS3_Capture_v0_2_0_source_04-04-18\bin\x64\Release\FlyCapture2SimpleGUI_CSharp.exe
+C:\Users\Renderfarm\Documents\Visual Studio 2017\GS3_Capture_v0_2_0_source_04-04-18\bin\x64\Release\FlyCapture2SimpleGUI_CSharp.pdb
+C:\Users\Renderfarm\Documents\Visual Studio 2017\GS3_Capture_v0_2_0_source_04-04-18\obj\x64\Release\FlyCapture2SimpleGUI_CSharp_2010.csproj.CopyComplete

@@ -1,0 +1,12 @@
+C:\My Stuff\My Programs\GS3Capture\bin\x64\Debug\FlyCapture2SimpleGUI_CSharp.exe.config
+C:\My Stuff\My Programs\GS3Capture\obj\x64\Debug\FlyCapture2SimpleGUI_CSharp.Form1.resources
+C:\My Stuff\My Programs\GS3Capture\obj\x64\Debug\FlyCapture2SimpleGUI_CSharp.Properties.Resources.resources
+C:\My Stuff\My Programs\GS3Capture\obj\x64\Debug\FlyCapture2SimpleGUI_CSharp_2010.csproj.GenerateResource.Cache
+C:\My Stuff\My Programs\GS3Capture\bin\x64\Debug\FlyCapture2SimpleGUI_CSharp.exe
+C:\My Stuff\My Programs\GS3Capture\bin\x64\Debug\FlyCapture2SimpleGUI_CSharp.pdb
+C:\My Stuff\My Programs\GS3Capture\bin\x64\Debug\SlimDX.dll
+C:\My Stuff\My Programs\GS3Capture\obj\x64\Debug\FlyCapture2SimpleGUI_CSharp.exe
+C:\My Stuff\My Programs\GS3Capture\obj\x64\Debug\FlyCapture2SimpleGUI_CSharp.pdb
+C:\My Stuff\My Programs\GS3Capture\obj\x64\Debug\FlyCapture2SimpleGUI_CSharp_2010.csprojResolveAssemblyReference.cache
+C:\My Stuff\My Programs\GS3Capture\bin\x64\Debug\FlyCap2CameraControl_v100.dll
+C:\My Stuff\My Programs\GS3Capture\bin\x64\Debug\FlyCapture2Managed_v100.dll
